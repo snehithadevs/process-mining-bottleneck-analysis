@@ -1,0 +1,5 @@
+from_activity,to_activity,avg_hours,max_hours,cases
+Order Packed,Order Shipped,10.666666666666666,22.0,6
+Payment Confirmed,Order Packed,3.25,8.75,6
+Order Packed,Order Packed,0.5,0.5,1
+Order Created,Payment Confirmed,0.4166666666666667,0.75,6
